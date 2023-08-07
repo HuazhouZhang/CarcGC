@@ -1,0 +1,22 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+deepchem=2.6.0.dev20210509222234
+hickle=4.0.4
+Keras=2.4.3
+matplotlib=3.4.0
+networkx=2.5
+numpy=1.19.5
+pandas=1.2.3
+rdkit=2017.09.1
+scikit-learn=0.24.1
+scipy=1.6.2
+seaborn=0.11.1
+sklearn=0.0
+tensorboard=2.4.1
+tensorboard-plugin-wit=1.8.0
+tensorflow-addons=0.13.0
+tensorflow-determinism=0.3.0
+tensorflow-estimator=2.4.0
+tensorflow-gpu=2.4.1
+tensorflow-gpu-estimator=2.3.0
