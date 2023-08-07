@@ -1,0 +1,94 @@
+CASRN,Chemical Name,SMILES,human,rat,Carcinogenicity
+75-07-0,Acetaldehyde,CC=O,2B,,+
+60-35-5,Acetamide,CC(=O)N,2B,,+
+75-05-8,Acetonitrile,CC#N,D,,+
+98-86-2,Acetophenone,CC(=O)C1=CC=CC=C1,D,,+
+62-53-3,Aniline,C1=CC=C(C=C1)N,2A,+,+
+90-04-0,o-Anisidine,COC1=CC=CC=C1N,2B,+,+
+98-07-7,Benzotrichloride,C1=CC=C(C=C1)C(Cl)(Cl)Cl,2A,+,+
+542-88-1,Bis(chloromethyl)ether,C(OCCl)Cl,A,+,+
+75-25-2,Bromoform,C(Br)(Br)Br,3,+,+
+106-94-5,1-Bromopropane,CCCBr,2B,+,+
+75-15-0,Carbon disulfide,C(=S)=S,4,,+
+56-23-5,Carbon tetrachloride,C(Cl)(Cl)(Cl)Cl,2B,+,+
+463-58-1,Carbonyl sulfide,C(=O)=S,,,+
+57-74-9,Chlordane,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,2B,+,+
+79-11-8,Chloroacetic acid,C(C(=O)O)Cl,4,,+
+67-66-3,Chloroform,C(Cl)(Cl)Cl,2B,+,+
+107-30-2,Chloromethyl methyl ether,COCCl,1,+,+
+126-99-8,Chloroprene,C=CC(=C)Cl,2B,+,+
+1319-77-3,Cresols/Cresylic acid,CC1=CC=C(C=C1)O,C,,+
+95-48-7,o-Cresol,CC1=CC=CC=C1O,C,,+
+108-39-4,m-Cresol,CC1=CC(=CC=C1)O,C,,+
+106-44-5,p-Cresol,CC1=CC=C(C=C1)O,C,,+
+98-82-8,Cumene,CC(C)C1=CC=CC=C1,2B,+,+
+3547-04-4,DDE,CC(C1=CC=C(C=C1)Cl)C2=CC=C(C=C2)Cl,,,+
+334-88-3,Diazomethane,C=[N+]=[N-],3,,+
+132-64-9,Dibenzofurans,C1=CC=C2C(=C1)C3=CC=CC=C3O2,D,,+
+84-74-2,Dibutylphthalate,CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,D,,+
+542-75-6,"1,3-Dichloropropene",C(C=CCl)Cl,2B,+,+
+119-90-4,"3,3-Dimethoxybenzidine",COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N,2B,+,+
+119-93-7,"3,3'-Dimethyl benzidine",CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N,2B,+,+
+79-44-7,Dimethyl carbamoyl chloride,CN(C)C(=O)Cl,2A,+,+
+57-14-7,"1,1-Dimethyl hydrazine",CN(C)N,2B,+,+
+131-11-3,Dimethyl phthalate,COC(=O)C1=CC=CC=C1C(=O)OC,D,,+
+77-78-1,Dimethyl sulfate,COS(=O)(=O)OC,2A,+,+
+534-52-1,"4,6-Dinitro-o-cresol, and salts",CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-],,,+
+51-28-5,"2,4-Dinitrophenol",C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])O,,,+
+121-14-2,"2,4-Dinitrotoluene",CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],2B,+,+
+75-00-3,Ethyl chloride,CCCl,3,+,+
+106-93-4,Ethylene dibromide,C(CBr)Br,2A,+,+
+107-06-2,Ethylene dichloride,C(CCl)Cl,2B,+,+
+107-21-1,Ethylene glycol,C(CO)O,D,,+
+151-56-4,Ethylene imine,C1CN1,2B,+,+
+75-21-8,Ethylene oxide,C1CO1,1,+,+
+75-34-3,Ethylidene dichloride,CC(Cl)Cl,,+,+
+50-00-0,Formaldehyde,C=O,,,+
+67-72-1,Hexachloroethane,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,2B,,+
+822-06-0,"Hexamethylene-1,6-diisocyanate",C(CCCN=C=O)CCN=C=O,,,+
+58-89-9,Lindane,C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl,1,,+
+108-31-6,Maleic anhydride,C1=CC(=O)OC1=O,,,+
+67-56-1,Methanol,CO,,,+
+74-83-9,Methyl bromide,CBr,,,+
+74-87-3,Methyl chloride,CCl,,,+
+71-55-6,Methyl chloroform,CC(Cl)(Cl)Cl,,,+
+78-93-3,Methyl ethyl ketone,CCC(=O)C,,,+
+60-34-4,Methyl hydrazine,CNN,,,+
+74-88-4,Methyl iodide,CI,,,+
+108-10-1,Methyl isobutyl ketone,CC(C)CC(=O)C,2B,,+
+624-83-9,Methyl isocyanate,CN=C=O,,,+
+101-14-4,"4,4-Methylene bis(2-chloroaniline)",C1=CC(=C(C=C1CC2=CC(=C(C=C2)N)Cl)Cl)N,1,+,+
+75-09-2,Methylene chloride,C(Cl)Cl,2A,,+
+101-68-8,Methylene diphenyl diisocyanate,C1=CC(=CC=C1CC2=CC=C(C=C2)N=C=O)N=C=O,3,+,+
+101-77-9,"4,4'-Methylenedianiline",C1=CC(=CC=C1CC2=CC=C(C=C2)N)N,2B,,+
+92-93-3,4-Nitrobiphenyl,C1=CC=C(C=C1)C2=CC=C(C=C2)[N+](=O)[O-],3,,+
+100-02-7,4-Nitrophenol,C1=CC(=CC=C1[N+](=O)[O-])O,,+,+
+684-93-5,N-Nitroso-N-methylurea,CN(C(=O)N)N=O,2A,+,+
+62-75-9,N-Nitrosodimethylamine,CN(C)N=O,2A,,+
+87-86-5,Pentachlorophenol,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,1,,+
+75-44-5,Phosgene,C(=O)(Cl)Cl,,,+
+1336-36-3,Polychlorinated biphenyls,C1=C(C=C(C(=C1Cl)Cl)Cl)C2=CC(=C(C(=C2)Cl)Cl)Cl,,,+
+123-38-6,Propionaldehyde,CCC=O,,,+
+114-26-1,Propoxur (Baygon),CC(C)OC1=CC=CC=C1OC(=O)NC,2B,,+
+78-87-5,Propylene dichloride,CC(CCl)Cl,1,,+
+75-55-8,"1,2-Propylenimine",CC1CN1,2B,,+
+91-22-5,Quinoline,C1=CC=C2C(=C1)C=CC=N2,2B,,+
+106-51-4,Quinone,C1=CC(=O)C=CC1=O,3,,+
+79-34-5,"1,1,2,2-Tetrachloroethane",C(C(Cl)Cl)(Cl)Cl,2B,,+
+127-18-4,Tetrachloroethylene,C(=C(Cl)Cl)(Cl)Cl,2A,,+
+584-84-9,"2,4-Toluene diisocyanate",CC1=C(C=C(C=C1)N=C=O)N=C=O,2B,,+
+95-53-4,o-Toluidine,CC1=CC=CC=C1N,1,,+
+120-82-1,"1,2,4-Trichlorobenzene",C1=CC(=C(C=C1Cl)Cl)Cl,,,+
+79-00-5,"1,1,2-Trichloroethane",C(C(Cl)Cl)Cl,3,,+
+79-01-6,Trichloroethylene,C(=C(Cl)Cl)Cl,1,,+
+95-95-4,"2,4,5-Trichlorophenol",C1=C(C(=CC(=C1Cl)Cl)Cl)O,2B,,+
+121-44-8,Triethylamine,CCN(CC)CC,,,+
+540-84-1,"2,2,4-Trimethylpentane",CC(C)CC(C)(C)C,,,+
+593-60-2,Vinyl bromide,C=CBr,2A,,+
+75-01-4,Vinyl chloride,C=CCl,1,,+
+75-35-4,Vinylidene chloride,C=C(Cl)Cl,2B,,+
+1330-20-7,Xylenes,CC1=CC(=CC=C1)C,3,,+
+95-47-6,o-Xylenes,CC1=CC=CC=C1C,3,,+
+108-38-3,m-Xylenes,CC1=CC(=CC=C1)C,3,,+
+106-42-3,p-Xylenes,CC1=CC=C(C=C1)C,3,,+
+22839-47-0,Aspartame,COC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(=O)O)N,2B,,+
